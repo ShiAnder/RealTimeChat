@@ -187,7 +187,7 @@ body{
   transition: all 0.2s ease;
 }
 .users .search input.show{
-  opacity: 1;
+  opacity: 0;
   pointer-events: auto;
 }
 .users .search button{
